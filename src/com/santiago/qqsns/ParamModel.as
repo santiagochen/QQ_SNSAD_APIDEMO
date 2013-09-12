@@ -1,0 +1,1 @@
+﻿package com.santiago.qqsns {		public class ParamModel {		static public var _params:Object = new Object;		public function ParamPassed() {			// constructor code		}	}	}
